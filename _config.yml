@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://nodebots.co.nz
-title: Nodebots New Zealand
+title: NodeBots New Zealand
 subtitle: Circuits and Programming for the Whole Family
 author: Alex Gibson
 simple_search: https://www.google.com/search
@@ -91,7 +91,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: nodebots-nz
 disqus_show_comment_count: false
 
 # Google Analytics
