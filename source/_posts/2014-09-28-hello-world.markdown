@@ -10,7 +10,7 @@ author: Alex Gibson
 
 Hi Everybody and join me in welcoming to the world the brand spanking new NodeBots New Zealand.
 
-For a while now I've been planning and working out how to bring NodeBots to New Zealand, and after a some sweat and hard work I've finally started the ball rolling.
+For a while now I've been planning and working out how to bring NodeBots to New Zealand, and after some sweat and hard work I've finally started the ball rolling.
 
 Though sadly the initial kickoff Wellington NodeBots event is postponed until further notice, well... basically until I find one or two more sponsors to help alleviate the cost of the gear and kick the organisation off.
 
