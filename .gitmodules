@@ -1,0 +1,3 @@
+[submodule ".themes/MediumFox"]
+	path = .themes/MediumFox
+	url = git@github.com:sevenadrian/MediumFox.git
