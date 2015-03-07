@@ -9,13 +9,13 @@ For general help on getting started, checkout our [getting started guide](). Thi
 
 
 ## Guides
-1. [Getting Started]()
-2. [Nodebots Day Events]()
+1. [Getting started](https://github.com/JavaScript-NZ/nodebots/blob/master/guides/getting-started.md#getting-started)
+2. [Nodebots day schedule](https://github.com/JavaScript-NZ/nodebots/blob/master/guides/nodebots-day-schedule.md)
 
 
 ## Events
 Each event we have will be posted here, with details pending and photos post the event.
-* [NodeConf - ChristChruch - 3/28/15]()
+* [NodeConf - ChristChruch - 3/28/15](https://github.com/JavaScript-NZ/nodebots/blob/master/events/nodeconf-chch-2015.md)
 * [International Nodebots Day - Wellington - 27/7/15]()
 
 ## Sponsors
