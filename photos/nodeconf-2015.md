@@ -1,5 +1,4 @@
 ![nodebots_image1](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodeconf-chch-29-03-2015/IMG_1315.JPG)
-![nodebots_image2](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodeconf-chch-29-03-2015/IMG_1316.JPG)
 ![nodebots_image3](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodeconf-chch-29-03-2015/IMG_6547.jpg)
 ![nodebots_image4](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodeconf-chch-29-03-2015/IMG_6547.jpg)
 ![nodebots_image5](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodeconf-chch-29-03-2015/IMG_6548.jpg)
