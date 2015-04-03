@@ -1,4 +1,4 @@
-![nodebots_image1](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodebots-wlg-24-03-2015/IMG_6412.JPG)
+![nodebots_image1](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodebots-wlg-24-03-2015/IMG_6412.jpg)
 ![nodebots_image4](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodebots-wlg-24-03-2015/IMG_6414.jpg)
 ![nodebots_image5](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodebots-wlg-24-03-2015/IMG_6415.jpg)
 ![nodebots_image6](https://github.com/JavaScript-NZ/nodebots/blob/master/photos/nodebots-wlg-24-03-2015/IMG_6417.jpg)
