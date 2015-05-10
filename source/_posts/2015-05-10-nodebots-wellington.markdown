@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "nodebots_wellington"
+title: "Nodebots Wellington"
 date: 2015-05-10 13:06:48 +1200
+date_formatted: 2015-05-10
 comments: true
-categories:
+categories: Planning
+author: Alex Gibson
 ---
-
 
 Surprise; Where hosting an event here in Wellington on the 23rd of May!!!
 
