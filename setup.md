@@ -58,7 +58,7 @@ sudo npm -g install serialport
 Linux is generally pretty straight forward. Install the following (assuming Ubuntu / Debian style machines):
 
 * Arduino [Available here to install manually](http://playground.arduino.cc/Learning/Linux) or a simple 'apt-get install arduino' should do it for a relatively recent version.
-* NodeJS: [Source install instructions here](http://howtonode.org/how-to-install-nodejs). Don't install via your package manager as you really need an up-to-date version of node to work with hardware.
+* NodeJS: [Follow the appropriate directions here](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 
 Finally - attempt to install node-serialport as this will test everything is working:
 
