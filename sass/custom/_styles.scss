@@ -191,3 +191,9 @@ a {
     display: none;
   }
 }
+
+@media (max-width: 940px) {
+  .full-single-article {
+    padding-top: 95px;
+  }
+}
