@@ -9,17 +9,23 @@ For general help on getting started, checkout our [getting started guide](). Thi
 
 
 ## Guides
-1. [Getting started](https://github.com/JavaScript-NZ/nodebots/blob/master/guides/getting-started.md#getting-started)
-2. [Nodebots day schedule](https://github.com/JavaScript-NZ/nodebots/blob/master/guides/nodebots-day-schedule.md)
+1. [Setup](https://github.com/JavaScript-NZ/nodebots/blob/master/guides/setup.md)
+2. [Getting started](https://github.com/JavaScript-NZ/nodebots/blob/master/guides/getting-started.md#getting-started)
+3. [Nodebots day schedule](https://github.com/JavaScript-NZ/nodebots/blob/master/guides/nodebots-day-schedule.md)
 
 
 ## Events
 Each event we have will be posted here, with details pending and photos post the event.
 * [NodeConf - ChristChruch - 3/28/15](https://github.com/JavaScript-NZ/nodebots/blob/master/events/nodeconf-chch-2015.md)
-* [International Nodebots Day - Wellington - 27/7/15]()
+* [NodeBots - Wellington - 5/23/15](https://github.com/JavaScript-NZ/nodebots/blob/master/events/nodebots-wlg-2015.md)
+* [International Nodebots Day - Wellington - 27/7/15]() - tbc
 
 ## Sponsors
-
+* [Xero](www.xero.co.nz)
+* [TradeMe](www.trademe.co.nz)
+* [Hoist](www.hoistapps.com)
+* [Media Suite](www.mediasuite.co.nz)
+* [Atomic](www.atomic.io)
 
 ## The Team
 
