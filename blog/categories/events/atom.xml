@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: planning, | NodeBots New Zealand]]></title>
-  <link href="http://nodebots.co.nz/blog/categories/planning/atom.xml" rel="self"/>
+  <title><![CDATA[Category: events | NodeBots New Zealand]]></title>
+  <link href="http://nodebots.co.nz/blog/categories/events/atom.xml" rel="self"/>
   <link href="http://nodebots.co.nz/"/>
   <updated>2015-06-20T16:07:38+12:00</updated>
   <id>http://nodebots.co.nz/</id>
