@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nodebots.co.nz/blog/2015/06/20/international-nodebots-day/</loc>
+    <lastmod>2015-06-20T15:04:01+12:00</lastmod>
+  </url>
+  <url>
+    <loc>http://nodebots.co.nz/blog/2015/05/10/nodebots-wellington/</loc>
+    <lastmod>2015-05-10T13:06:48+12:00</lastmod>
+  </url>
+  <url>
+    <loc>http://nodebots.co.nz/blog/2015/03/26/nodebots-are-go/</loc>
+    <lastmod>2015-03-26T08:11:57+13:00</lastmod>
+  </url>
+  <url>
+    <loc>http://nodebots.co.nz/blog/2014/09/28/hello-world/</loc>
+    <lastmod>2014-09-28T20:34:35+13:00</lastmod>
+  </url>
+  <url>
+    <loc>http://nodebots.co.nz/</loc>
+  </url>
+  <url>
+    <loc>http://nodebots.co.nz/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://nodebots.co.nz/posts/</loc>
+  </url>
+  <url>
+    <loc>http://nodebots.co.nz/blog/categories/planning/</loc>
+  </url>
+</urlset>
