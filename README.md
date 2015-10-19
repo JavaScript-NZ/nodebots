@@ -22,11 +22,11 @@ Each event we have will be posted here, with details pending and photos post the
 * [International NodeBots Day - Wellington - 27/7/15]() - tbc
 
 ## Sponsors
-* [Xero](www.xero.co.nz)
-* [TradeMe](www.trademe.co.nz)
-* [Hoist](www.hoistapps.com)
-* [Media Suite](www.mediasuite.co.nz)
-* [Atomic](www.atomic.io)
+* [Xero](http://www.xero.co.nz)
+* [TradeMe](http://www.trademe.co.nz)
+* [Hoist](http://www.hoistapps.com)
+* [Media Suite](http://www.mediasuite.co.nz)
+* [Atomic](http://www.atomic.io)
 
 ## The Team
 
