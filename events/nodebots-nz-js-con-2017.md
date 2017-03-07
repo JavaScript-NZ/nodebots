@@ -25,3 +25,22 @@ Once you have your drone, and a few backup batteries, you'll want to make sure y
 Alternatively, if we're out of drones, then pickup a sparkfun inventors kit and a sumo-bot chassis and head on over to: [link here] for details on how to build it.
 
 ## Getting friendly with your Drone
+
+Although you can use the Parrot Mini app for for [iOS](https://itunes.apple.com/us/app/freeflight-mini/id1137022728?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.parrot.freeflight4mini&hl=en) that's not nearly as fun as controlling it with JavaScript!
+
+There are a number of npm modules that can control the Parrot drones, but the two that look the most promising are [npm-parrrot-minidrone](https://github.com/fetherston/npm-parrot-minidrone) and [node-rolling-spider](https://github.com/voodootikigod/node-rolling-spider).
+
+We'd recommend getting a simple example working first just to get used to how everything connects. Both of the projects linked above example projects in the repo itself.
+
+What's next? It's up to you!
+
+Good luck 👍🏼
+
+## Things to keep in mind
+
+tl;dr; Be careful of other people ;)
+
+ - Don't fly the drones *at* people or annoy anyone by buzzing them around their heads. Those blades are super sharp
+ - Keep the indoor hull on your drone
+ - The drones are going to hit the wall or the roof, we know, but please don't do that on purpose
+ - Just generally be curteous of other people's space where you can
