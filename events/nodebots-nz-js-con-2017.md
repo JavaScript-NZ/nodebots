@@ -28,9 +28,9 @@ Alternatively, if we're out of drones, then pickup a sparkfun inventors kit and 
 
 Although you can use the Parrot Mini app for for [iOS](https://itunes.apple.com/us/app/freeflight-mini/id1137022728?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.parrot.freeflight4mini&hl=en) that's not nearly as fun as controlling it with JavaScript!
 
-There are a number of npm modules that can control the Parrot drones, but the two that look the most promising are [npm-parrrot-minidrone](https://github.com/fetherston/npm-parrot-minidrone) and [node-rolling-spider](https://github.com/voodootikigod/node-rolling-spider).
+The npm module you're going to want to use is [node-rolling-spider](https://github.com/voodootikigod/node-rolling-spider). When you grab your drone we'll tell you the Bluetooth name so that you can use that to connect with.
 
-We'd recommend getting a simple example working first just to get used to how everything connects. Both of the projects linked above example projects in the repo itself.
+We'd recommend getting a simple example working first just to get used to how everything connects. There are examples inside the above module in the `/eg` folder.
 
 What's next? It's up to you!
 
