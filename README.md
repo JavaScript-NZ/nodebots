@@ -3,6 +3,8 @@ NodeBots New Zealand
 
 Welcome to NodeBots New Zealand. Here you will find all the things you need to get up and running at a NodeBots New Zealand Event.
 
+If you're here for the NodeBots event for nz.js(con), then head on over [here](events/nodebots-nz-js-con-2017.md).
+
 For general help on getting started, checkout our [setup guide](setup.md) and [getting started guide](guides/getting-started.md#getting-started). These two guides should cover everything you need for a NodeBots day.
 
 [Join the chat at http://slack.javascript.org.nz](http://slack.javascript.org.nz)
